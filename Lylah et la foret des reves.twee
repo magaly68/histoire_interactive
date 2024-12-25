@@ -1,0 +1,179 @@
+:: StoryTitle
+Lylah et la forêt des rêves 
+
+
+:: StoryData
+{
+  "ifid": "0C24B034-6DA7-4CDD-BAC3-5306315362A2",
+  "format": "SugarCube",
+  "format-version": "1.0.35",
+  "start": "prologue",
+  "tag-colors": {
+    "prologue": "green",
+    "départ": "green",
+    "la-forêt-des-rêves": "green",
+    "la-clairère-lumineuse": "green",
+    "lac": "blue",
+    "arrivée-à-Eldoria": "purple",
+    "Eldoria": "blue",
+    "les-montagnes": "purple"
+  },
+  "zoom": 1
+}
+
+
+:: La clairière lumineuse [la-clairère-lumineuse] {"position":"850,250","size":"100,100"}
+Dans la clairière, Lylah découvrit un groupe de fées dansant autour d'un cercle de fleurs. Soudain, elle entendit une voix:  c'était une fée qui lui proposa de  rejoindre leur danse elle et ses amies lui offrirent un nectar magique qui lui permettait de voler.
+Lylah vola au-dessus de la forêt et vit  des paysages inédits et des créatures fantastiques.
+
+<img src="https://tse4.mm.bing.net/th?id=OIP.lqBAqFLjARwni-aCTU95BgHaFW&pid=Api">
+
+
+
+[[Lylah atterrit près d'un lac.]]
+
+
+:: La forêt des rêves [la-forêt-des-rêves] {"position":"550,250","size":"100,100"}
+<p>
+Lylah pénétra dans la Forêt des Rêves, où les arbres semblaient chanter des mélodies oubliées. 
+Elle rencontra un renard aux yeux dorés qui lui offrit de la guider en échange d'une histoire.
+Lylah raconta l'histoire de son village et de ses habitants, et le renard la mena à un carrefour.
+</p>
+<img src="https://tse1.mm.bing.net/th?id=OIP.gDYvnSoyBk6GIlV-ZCd4LAHaEK&pid=Api">
+
+[[Lylah accepte d'écouter l'histoire du renard.]]
+
+
+:: Lylah accepte d'écouter l'histoire du renard. {"position":"200,675","size":"100,100"}
+
+<img src="https://tse4.mm.bing.net/th?id=OIP.8BRG8pafYRiHpyy9BwZFXgHaHW&pid=Api">
+[[l'arrivée à Eldoria]] 
+[[épilogue]] 
+
+
+:: Lylah atterrit près d'un lac. {"position":"725,375","size":"100,100"}
+<p>
+Au bord du lac, Lylah rencontra un poisson qui lui parla en rêve. 
+et qui lui  révéla un secret : un dragon sommeillait au fond du lac, et il fallait le réveiller pour obtenir un don précieux. 
+Lylah plongea dans l'eau et trouva le dragon, qui lui offrit la capacité de voir à travers les illusions.
+</p>
+
+[[réveiller le dragon]]
+
+<img src=""http://gwenfantastic.g.w.pic.centerblog.net/c3uhrce9.jpg">
+
+
+:: Lylah reste à Eldoria pour apprendre plus de magie de sa grand-mère. {"position":"600,1250","size":"100,100"}
+<img src="https://tse2.mm.bing.net/th?id=OIP.6N-k_BNydGk3dK9HHiPnRQAAAA&pid=Api">
+[[épilogue]]
+
+
+:: l'arrivée à Eldoria {"position":"600,925","size":"100,100"}
+<p>
+Après tous ces événements, Lylah arriva enfin à Eldoria. 
+Elle trouva sa grand-mère malade, mais avec l'aide des dons et des connaissances acquises pendant son voyage, elle put la guérir.
+</p>
+<img src="https://tse1.mm.bing.net/th?id=OIP.rNkILDN_1Q3Qpj00N4i6LwHaEG&pid=Api">
+
+[[Lylah reste à Eldoria pour apprendre plus de magie de sa grand-mère.]]
+
+
+
+:: la beauté {"position":"350,625","size":"100,100"}
+p>
+Lylah réfléchit un instant avant de répondre : "Je pense que c'est la beauté, car la beauté est partout autour de nous, et elle nous inspire à voir le monde d'une manière unique."
+</p>
+
+<p>Le dragon sourit, mais son regard sembla un peu triste. 
+"La beauté est  une chose précieuse, mais elle peut aussi être éphémère. Voici ton don : la capacité de voir la beauté cachée dans toute chose.
+Cependant, sois prudente, car cette vision peut aussi te rendre vulnérable aux illusions."
+</p>
+<img src="https://tse2.mm.bing.net/th?id=OIP.9VoOnpXvuHGugdg6WDxiDAHaHa&pid=Api>
+[[l'arrivée à Eldoria]]
+[[épilogue]] 
+
+
+:: la force {"position":"975,700","size":"100,100"}
+<p>
+Lylah réfléchit un instant avant de répondre : 
+"Je pense que c'est la force, car la force nous permet de surmonter les obstacles et de protéger ceux que nous aimons."
+</p>
+
+<p>
+Le dragon hocha la tête, mais son regard sembla un peu critique.
+"La force est importante, mais elle peut aussi être dangereuse si elle n'est pas utilisée avec discernement.
+Voici ton don : la capacité de canaliser une force extraordinaire. Cependant, sois prudente, car cette force peut aussi te consumer si tu ne la contrôles pas."
+</p>
+
+<img src="https://tse3.mm.bing.net/th?id=OIP.6SrgG56geHD_1mt4hUAj8AHaHQ&pid=Api">
+[[l'arrivée à Eldoria]] 
+[[épilogue]] 
+
+
+:: la sagesse {"position":"650,700","size":"100,100"}
+<p>
+Lylah réfléchit un instant avant de répondre : "Je pense que c'est la sagesse. Car avec la sagesse, on peut apprécier la beauté et utiliser la force de manière juste."
+</p>
+
+<p>
+Le dragon sourit, satisfait de sa réponse.
+"La sagesse est  la plus grande des vertus. 
+Voici ton don : la capacité de voir à travers les illusions. 
+Utilise-la bien, petite voyageuse."
+</p>
+
+<img src="https://tse1.mm.bing.net/th?id=OIP.15KNN0eZoQYQ21VcKzU7jwHaF7&pid=Api">
+
+[[l'arrivée à Eldoria]] 
+[[épilogue]] 
+
+
+
+
+
+
+:: le départ [départ] {"position":"750,125","size":"100,100"}
+<p>
+Lylah se prépara pour son voyage, emportant un sac contenant des provisions, un petit sac de potions de sa grand-mère et une carte ancienne qui menait à Eldoria et quitta Luminaria à l'aube, sous les regards curieux des villageois.
+</p>
+<img src="https://tse1.mm.bing.net/th?id=OIP.mzclPeUyJLM21kOIPLSbsAHaJ4&pid=Api">
+[[La forêt des rêves]]
+[[La clairière lumineuse]]
+
+
+
+:: prologue [prologue] {"position":"750,0","size":"100,100"}
+<p>
+Dans le village de Luminaria, où les étoiles brillent plus fort que partout ailleurs, vivait une petite fille nommée Lylah. 
+Elle avait des yeux bleus comme l'eau claire et des cheveux blond qui brillaient comme de l'or. 
+Lylah était une petite fille comme les autres mais elle possédait un don unique : elle pouvait communiquer avec les animaux.
+Un jour, Lylah reçut un message mystérieux de sa grand-mère, qui vivait dans un village lointain appelé Eldoria. 
+Un jour Lylah reçut un appel de sa grand-mère, qui était  une sage femme respectée pour ses connaissances en magie et en herboristerie,  elle avait besoin de la voir de toute urgence.
+</p>
+<img src="https://tse1.mm.bing.net/th?id=OIP.e3g13Rm8xItlu35hYoMjWgHaLH&pid=Api" width="50%" height="50%">
+
+[[le départ]]
+
+
+:: réveiller le dragon {"position":"725,500","size":"100,100"}
+<p>
+Le poisson acquiesça et lui indiqua comment procéder et Lylah plongea dans l'eau cristalline et descendit jusqu'au fond du lac. 
+Là, elle trouva un immense dragon endormi, dont les écailles brillaient comme des joyaux sous la lumière filtrée.
+Elle toucha doucement l'épaule du dragon, et celui-ci ouvrit les yeux. Il la regarda avec une intelligence ancienne et une sagesse profonde.
+"Pourquoi m'as-tu réveillé, petite voyageuse?" demanda le dragon d'une voix qui résonna dans son cœur.
+Lylah expliqua sa quête et le dragon écouta attentivement. Lorsqu'elle eut fini, il hocha la tête.
+"Je te donnerai un don, mais d'abord, tu dois répondre à une question. Qu'est-ce que tu apprécies le plus dans ce monde : [[la beauté]], [[la force]] ou [[la sagesse]]?"
+Lylah réfléchit un instant avant de répondre :
+"Je pense que c'est la sagesse,Car avec la sagesse, on peut apprécier la beauté et utiliser la force de manière juste."
+Le dragon sourit, satisfait de sa réponse.
+"Alors, voici ton don : la capacité de voir à travers les illusions. Utilise-la bien, petite voyageuse."
+</p>
+<img src="http://gwenfantastic.g.w.pic.centerblog.net/c3uhrce9.jpg">
+
+
+
+:: épilogue {"position":"625,1450","size":"100,100"}
+Lorsque Lylah retourna à Luminaria, elle avait grandi et avait découvert des aspects d' elle-même qu'elle n'aurait jamais imaginé. 
+Les villageois la regardaient avec un respect nouveau, et elle savait que ses aventures ne faisaient que commencer.
+
+<img src="https://tse1.explicit.bing.net/th?id=OIP.faxyMQ1ZovNu9qY2pW8hLgHaEo&pid=Api">
